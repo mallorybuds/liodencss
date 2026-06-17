@@ -71,9 +71,9 @@ h3 {
     color: white !important;
 }
 .inner-table .left {
-    background: lightskyblue;
-    border-radius: 0;
-    border: 1px solid white;
+    background: lightskyblue !important;
+    border-radius: 0 !important;
+    border: 1px solid white !important;
     color: black;
 
 }
